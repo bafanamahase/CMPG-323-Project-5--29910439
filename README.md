@@ -1,5 +1,19 @@
 # CMPG-323-Project-5--29910439
 
+## High-Level Metrics
+![Screenshot (105)](https://github.com/bafanamahase/CMPG-323-Project-5--29910439/assets/88552699/87caca6a-7bc6-45f7-a200-b0f60975d68a)
+## Order Monitoring
+![Screenshot (106)](https://github.com/bafanamahase/CMPG-323-Project-5--29910439/assets/88552699/001dd87a-2d8c-4fdd-b053-77a6f5701a80)
+
+## Product Monitoring
+![Screenshot (107)](https://github.com/bafanamahase/CMPG-323-Project-5--29910439/assets/88552699/8dc846d3-2966-48bb-9f65-93a90f0fe8e7)
+
+## Customer Monitoring
+![Screenshot (108)](https://github.com/bafanamahase/CMPG-323-Project-5--29910439/assets/88552699/962d6b2a-899b-44b7-8b19-ff283f263d5d)
+
+
+
+
 ## References
 
 1. Davenport, T. H. (2006). Competing on analytics. Harvard Business Review, 84(1), 119-131.
