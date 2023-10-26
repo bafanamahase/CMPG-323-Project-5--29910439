@@ -1,5 +1,45 @@
 # CMPG-323-Project-5--29910439
 
+## To use the Power BI report for EcoPower Logistics, follow these steps as a member of the COI development team:
+
+**1. Access the Power BI Report:**
+   - Log in to your organization's Power BI account, making sure you have the necessary permissions.
+
+**2. Find the EcoPower Logistics Report:**
+   - Locate the EcoPower Logistics report within your Power BI workspace or the shared workspace where the report is stored.
+
+**3. Open the Report:**
+   - Click on the report to open it.
+
+**4. Understand the Report Structure:**
+   - The report is designed to provide comprehensive insights into EcoPower Logistics' logistics operations.
+   - It may consist of various pages or tabs, each focusing on different aspects of logistics, such as order processing, warehousing, and sales.
+
+**5. Interact with Visualizations:**
+   - Within each page of the report, you'll find visualizations like charts, graphs, and tables.
+   - Use the interactive elements within these visualizations, such as filters and slicers, to explore data. You can click on data points to drill down or apply filters to specific time periods or categories.
+
+**6. Monitor Orders and Product Sales:**
+   - Pay special attention to the pages or visualizations related to monitoring orders and product sales, as this is a key focus.
+   - Look for charts or tables that display information about order statuses, customer data, and sales figures.
+
+**7. Navigate Between Pages:**
+   - If the report has multiple pages, use the navigation controls to switch between them.
+   - Each page may offer different perspectives on logistics data.
+
+**8. Collaborate and Share:**
+   - If you need to collaborate with other stakeholders, use the built-in sharing features of Power BI.
+   - Share the report with different team members or stakeholders, ensuring that they have the appropriate access levels.
+
+**9. Customize the Report (Optional):**
+   - If you have the necessary permissions and skills, you can customize the report or create your own visualizations or dashboards to suit your specific needs.
+
+**10. Stay Informed:**
+   - Regularly access the report to stay informed about the status of customers and their orders.
+   - Use the report as a tool for decision-making and to monitor the performance of logistics operations.
+
+By following these steps, you can effectively use the Power BI report to gain insights, monitor logistics, and make informed decisions within EcoPower Logistics. It's a valuable tool for all stakeholders to access and understand the logistics data, helping to streamline the management of resources and goods globally.
+
 ## High-Level Metrics
 ![Screenshot (105)](https://github.com/bafanamahase/CMPG-323-Project-5--29910439/assets/88552699/87caca6a-7bc6-45f7-a200-b0f60975d68a)
 ## Order Monitoring
