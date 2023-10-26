@@ -1,5 +1,8 @@
 # CMPG-323-Project-5--29910439
 
+## Link to power bi report
+https://app.powerbi.com/links/ZP9KBJT3od?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare&bookmarkGuid=66029af3-4715-40ff-accd-44dc2bd76b75
+
 ## To use the Power BI report for EcoPower Logistics, follow these steps as a member of the COI development team:
 
 **1. Access the Power BI Report:**
